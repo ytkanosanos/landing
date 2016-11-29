@@ -1,0 +1,65 @@
+html {
+	min-width: 1280px;
+	
+}
+
+body {
+	min-width: 1280px;
+}
+
+.header {
+	height: 170px;
+}
+
+.wrapper {
+	width: 1280px;
+	margin: 0 auto;
+}
+
+#logo img {
+	width: 300px;
+	float: left;
+}
+
+.mainMenu {
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.mainMenu ul li {
+	float: left;
+	margin-right: 100px;
+}
+
+.phoneHead {
+	float: right;
+	margin-top: 19px;
+}
+
+.zkz {
+	background-color: #1d7dcd;
+	color: #fff;
+	margin-top: 10px;
+	text-align: center;
+	cursor: pointer;
+
+}
+
+.info {
+	text-align: right;
+}
+
+.clear {
+	clear: both;
+}
+
+.main {
+	background-image: url(../images/car.jpg);
+	background-repeat: no-repeat;
+	height: 1100px;
+}
+
+.white {
+	background: #fff;
+}
